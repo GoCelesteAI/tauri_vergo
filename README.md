@@ -5,7 +5,7 @@ Demo app for **Episode 8: Self-Updating Tauri 2 Apps with Signed Releases — Up
 A tiny app that knows how to update itself. `tauri-plugin-updater` reads a static JSON manifest, downloads a signed bundle, verifies the signature against an embedded public key, and restarts itself into the new version.
 
 - **Watch on YouTube:** https://www.youtube.com/watch?v=mR-iEDNCQDQ
-- **Read on Codegiz:** https://codegiz.com/blog/tauri-patterns-episode-8-self-updating-tauri-2-apps-with-signed-releases
+- **Read on Codegiz:** https://www.codegiz.com/blog/tauri-patterns-episode-8-self-updating-tauri-2-apps-with-signed-releases/
 - **Series index:** https://github.com/GoCelesteAI/tauri-patterns
 
 ## What this app shows
